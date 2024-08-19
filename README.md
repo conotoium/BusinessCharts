@@ -1,7 +1,7 @@
 ```mermaid
 graph TD;
-    Key_Teams"-->Development_Team;
-    Key_Teams"-->Social_Relations_Team;
+    Key_Teams-->Development_Team;
+    Key_Teams-->Social_Relations_Team;
     Key_Teams-->Finance_Team;
     Development_Team-->Functionality;
     Development_Team-->Accessibility;
