@@ -1,5 +1,5 @@
 ```mermaid
-graph TD;
+graph LR;
     Key_Teams-->Development_Team;
     Key_Teams-->Social_Relations_Team;
     Key_Teams-->Finance_Team;
